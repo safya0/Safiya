@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safya\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|c:\\users\\safya\\source\\repos\\library\\library\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|solutionrelative:library\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|c:\\users\\safya\\source\\repos\\library\\library\\views\\borrowing\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|solutionrelative:library\\views\\borrowing\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|c:\\users\\safya\\source\\repos\\library\\library\\views\\borrowing\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|solutionrelative:library\\views\\borrowing\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|c:\\users\\safya\\source\\repos\\library\\library\\views\\borrowing\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|solutionrelative:library\\views\\borrowing\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|c:\\users\\safya\\source\\repos\\library\\library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|solutionrelative:library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|c:\\users\\safya\\source\\repos\\library\\library\\views\\borrowing\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82BE2EB5-246F-41E5-A6F4-32C62B3BBBB4}|Library\\Library.csproj|solutionrelative:library\\views\\borrowing\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Borrowing\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\Delete.cshtml",
+              "RelativeToolTip": "Library\\Views\\Borrowing\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:39:49.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Borrowing\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\Edit.cshtml",
+              "RelativeToolTip": "Library\\Views\\Borrowing\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:30:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\Create.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Borrowing\\Create.cshtml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\Create.cshtml",
+              "RelativeToolTip": "Library\\Views\\Borrowing\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:19:56.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:18:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Borrowing\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Views\\Borrowing\\GetAll.cshtml",
+              "RelativeToolTip": "Library\\Views\\Borrowing\\GetAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T11:18:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowingController.cs",
+              "DocumentMoniker": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Controllers\\BorrowingController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BorrowingController.cs",
+              "ToolTip": "C:\\Users\\safya\\source\\repos\\Library\\Library\\Controllers\\BorrowingController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BorrowingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:25:31.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
